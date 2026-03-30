@@ -35,6 +35,5 @@ ExpressJS project setup
 
 1. ExpressJS: ^5.2.1
 2. Mongoose: ^9.2.4
-3. swagger-ui: ^5.32.1
-4. cors: ^2.8.6
-5. dotenv: ^17.3.1
+3. cors: ^2.8.6
+4. dotenv: ^17.3.1
