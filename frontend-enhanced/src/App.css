@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+
+
+@theme {
+  --color-deep-blue: #13293D;
+  --color-baltic-blue: #006494;
+  --color-cerulean: #247BA0;
+  --color-blue-bell: #1B98E0;
+  --color-alice-blue: #E8F1F2;
+  --color-deep-black: #080808;
+}
