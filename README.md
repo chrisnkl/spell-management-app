@@ -1,14 +1,14 @@
-### How to run frontend locally
+## How to run frontend locally
 
-## Make sure you are currently at the `frontend-enhanced` folder.
+### Make sure you are currently at the `frontend-enhanced` folder.
 
 1. Setup `VITE_API_URL` at `.env` file. ## Do not change if not necessary, backend runs with route context `/api/v1`!
 2. Run `npm install` to install the dependencies.
 3. Run `npm run dev` to run the website. 
 
-### How to run backend locally
+## How to run backend locally
 
-## Make sure you are currently at the `backend` folder.
+### Make sure you are currently at the `backend` folder.
 
 1. Setup `MONGODB_URI` at `.env` file.
 2. Run `npm install` to install the dependencies.
