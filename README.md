@@ -4,7 +4,7 @@
 
 1. Setup `VITE_API_URL` at `.env` file. ## Do not change if not necessary, backend runs with route context `/api/v1`!
 2. Run `npm install` to install the dependencies.
-3. Run `npm run dev` to run the website. 
+3. Run `npm run dev` to run the website.
 
 ## How to run backend locally
 
@@ -14,11 +14,10 @@
 2. Run `npm install` to install the dependencies.
 3. Run `npm start` to run the backend.
 
-
-
 ## Techstack
 
 ### Frontend
+
 React + Vite + Typescript project setup
 
 1. React: ^19.2.4
@@ -28,7 +27,7 @@ React + Vite + Typescript project setup
 5. Tailwindcss: ^4.2.2
 6. HeroUI 3.0: ^3.0.1
 
-Lucide-React License can be found here: lucide-react-license.md
+Lucide-React License can be found here: [lucide-react-license.md](https://github.com/chrisnkl/spell-management-app/blob/master/lucide-react-license.md)
 
 ### Backend
 
@@ -39,4 +38,3 @@ ExpressJS project setup
 3. swagger-ui: ^5.32.1
 4. cors: ^2.8.6
 5. dotenv: ^17.3.1
-
